@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-import
 
+## 0.8.9-next.1
+
+### Patch Changes
+
+- 05be420971: Updated catalog import page text so they go in the correct hierarchy order
+- Updated dependencies
+  - @backstage/core-components@0.9.5-next.1
+  - @backstage/catalog-model@1.0.3-next.0
+  - @backstage/catalog-client@1.0.3-next.0
+  - @backstage/plugin-catalog-react@1.1.1-next.1
+
 ## 0.8.9-next.0
 
 ### Patch Changes

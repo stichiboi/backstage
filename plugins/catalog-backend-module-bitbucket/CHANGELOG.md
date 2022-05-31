@@ -1,5 +1,18 @@
 # @backstage/plugin-catalog-backend-module-bitbucket
 
+## 0.2.0-next.1
+
+### Minor Changes
+
+- 1c01c0fd14: Integrate `@backstage/plugin-bitbucket-cloud-common` as replacement for the `BitbucketCloudClient`.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.0.3-next.0
+  - @backstage/plugin-bitbucket-cloud-common@0.1.0-next.0
+  - @backstage/plugin-catalog-backend@1.2.0-next.1
+
 ## 0.1.4-next.0
 
 ### Patch Changes

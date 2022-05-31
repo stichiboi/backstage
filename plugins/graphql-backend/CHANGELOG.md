@@ -1,5 +1,12 @@
 # @backstage/plugin-graphql-backend
 
+## 0.1.23-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-graphql@0.3.10-next.0
+
 ## 0.1.23-next.0
 
 ### Patch Changes

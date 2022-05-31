@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-backend-module-github
 
+## 0.1.4-next.1
+
+### Patch Changes
+
+- 8335a6f6f3: Adds an edit URL to the GitHub Teams Group entities.
+- Updated dependencies
+  - @backstage/backend-tasks@0.3.2-next.1
+  - @backstage/catalog-model@1.0.3-next.0
+  - @backstage/plugin-catalog-backend@1.2.0-next.1
+
 ## 0.1.4-next.0
 
 ### Patch Changes

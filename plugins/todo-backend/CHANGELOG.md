@@ -1,5 +1,13 @@
 # @backstage/plugin-todo-backend
 
+## 0.1.30-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.0.3-next.0
+  - @backstage/catalog-client@1.0.3-next.0
+
 ## 0.1.30-next.0
 
 ### Patch Changes

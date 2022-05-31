@@ -1,5 +1,13 @@
 # @backstage/plugin-user-settings
 
+## 0.4.5-next.1
+
+### Patch Changes
+
+- bff65e6958: Updated sidebar-related logic to use `<SidebarPinStateProvider>` + `useSidebarPinState()` and/or `<SidebarOpenStateProvider>` + `useSidebarOpenState()` from `@backstage/core-components`.
+- Updated dependencies
+  - @backstage/core-components@0.9.5-next.1
+
 ## 0.4.5-next.0
 
 ### Patch Changes

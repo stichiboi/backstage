@@ -1,5 +1,14 @@
 # @backstage/plugin-jenkins-backend
 
+## 0.1.23-next.1
+
+### Patch Changes
+
+- 83f6a64d2c: bug fix: provide backstage token for rebuild api call
+- Updated dependencies
+  - @backstage/catalog-model@1.0.3-next.0
+  - @backstage/catalog-client@1.0.3-next.0
+
 ## 0.1.23-next.0
 
 ### Patch Changes
